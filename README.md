@@ -1,8 +1,8 @@
-### Hi there 👋 eu sou o  Gabriel Miquelin  2
+### Olá👋 eu sou o  Gabriel Miquelin  2
 
 - 🔭  Pretendo trabalhar com front-end
-- 🌱 I’m currently learning  html5 e css3
-- 😄 Pronouns: ele/dele
+- 🌱  Atualmente estou aprendendo html5 e css3
+- 😄  Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/gabrielmiquelin2">

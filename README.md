@@ -1,6 +1,6 @@
 ### Olá👋 eu sou o  Gabriel Miquelin  2
 
-- 🔭  Pretendo trabalhar com front-end
+- 🔭  Pretendo trabalhar como desenvolvedor front-end
 - 🌱  Atualmente estou estudando html5 e css3
 - 😄  Pronomes: ele/dele
 

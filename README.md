@@ -1,7 +1,7 @@
 ### Olá👋 eu sou o  Gabriel Miquelin  2
 
 - 🔭  Pretendo trabalhar como desenvolvedor front-end
-- 🌱  Atualmente estou estudando Algorítmo e lógica de programação
+- 🌱  Atualmente estou estudando JavaScript
 - 😄  Pronomes: ele/dele
 
 <div align="center">

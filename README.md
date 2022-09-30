@@ -2,7 +2,7 @@
 
 - 🔭  Tenho o objetivo de trabalhar como desenvolvedor web front-end
 - 🌱  Atualmente estou estudando JavaScript
-- 😄  Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/gabrielmiquelin2">

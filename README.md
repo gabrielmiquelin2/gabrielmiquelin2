@@ -1,7 +1,7 @@
  Olá👋 eu sou o  Gabriel Miquelin  2
 
 - 🔭  Tenho o objetivo de trabalhar como desenvolvedor web front-end
-- 🌱  Atualmente estou estudando JavaScript e GIT
+- 🌱  Atualmente estou estudando JavaScript
 
 
 <div align="center">

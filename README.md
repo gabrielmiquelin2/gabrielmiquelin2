@@ -10,10 +10,11 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_miquelin/)
  <hr>
 
+<div align="center">
+
 ![Gabriel Miquelin GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmiquelin2&show_icons=true&theme=onedark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiquelin2&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+ </div>
  <hr>
 
 ## Habilidades ✨

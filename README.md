@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel Miquelin 🖐️
 #### 📚 Cursando Engenharia de Software
-#### 🌱 Atualmente estou estudando JavaScript
+#### 🌱 Atualmente estou estudando JavaScript e C
 #### 🔭 Tenho o objetivo de trabalhar como desenvolvedor Front-End
  <hr>
 
